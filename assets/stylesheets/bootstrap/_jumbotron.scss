@@ -1,10 +1,11 @@
 @use "sass:color";
-
 @use "sass:math";
+
 //
 // Jumbotron
 // --------------------------------------------------
-
+@use "variables" as *;
+@use "mixins" as *;
 
 .jumbotron {
   padding-top: $jumbotron-padding;

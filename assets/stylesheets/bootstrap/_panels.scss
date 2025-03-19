@@ -2,7 +2,8 @@
 //
 // Panels
 // --------------------------------------------------
-
+@use "variables" as *;
+@use "mixins" as *;
 
 // Base class
 .panel {

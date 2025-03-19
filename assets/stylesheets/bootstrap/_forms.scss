@@ -1,10 +1,11 @@
 @use "sass:color";
-
 @use "sass:math";
 //
 // Forms
 // --------------------------------------------------
 
+@use "variables" as *;
+@use "mixins" as *;
 
 // Normalize non-controls
 //

@@ -3,7 +3,8 @@
 //
 // Popovers
 // --------------------------------------------------
-
+@use "variables" as *;
+@use "mixins" as *;
 
 .popover {
   position: absolute;
